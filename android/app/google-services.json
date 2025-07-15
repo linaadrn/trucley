@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1079251771324",
+    "firebase_url": "https://trucley-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trucley",
+    "storage_bucket": "trucley.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079251771324:android:6a56ff38b5b263ba3355b9",
+        "android_client_info": {
+          "package_name": "com.example.trucley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzIppAZgcUoCbAt-Xi6oljWDUkYtY6Wd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
